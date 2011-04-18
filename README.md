@@ -12,7 +12,7 @@ the Jenkins team:  https://github.com/jenkinsci/persona-plugin
 Installation
 ------------
 
-* Download the charliesheen.hpi file
+* Download the charliesheen.hpi file from the github Downloads page: https://github.com/joemiller/charliesheen-jenkins-plugin/downloads
 * Connect to your Hudson/Jenkins CI server, browse to:
   Manage Hudson > Manage Plugins > Advanced > Upload Plugin
 * Boom. Winning.
