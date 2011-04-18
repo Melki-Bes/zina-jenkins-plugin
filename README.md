@@ -81,6 +81,6 @@ Process:
    In the Post-Build section there should be an option to Associate Persona
    with your Persona loaded.
    
-9. To create an .hpi file run 'mvn package'.  The .hpi file will be in the target/ directory.
+8. To create an .hpi file run 'mvn package'.  The .hpi file will be in the target/ directory.
    
-10. Add your files, commit to github, and share your persona =) 
+9. Add your files, commit to github, and share your persona =) 
