@@ -1,5 +1,5 @@
-Charlie Sheen Persona Jenkins (Hudson) Plugin
-=============================================
+Charlie Sheen Plugin for Jenkins (Hudson)
+=========================================
 
 Chuck Norris sucks.  Charlie Sheen is king now.  
 
