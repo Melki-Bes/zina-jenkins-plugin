@@ -70,17 +70,17 @@ Process:
 5.  Create your persona.xml, failure.jpg, icon.jpg, other.jpg,
     success.jpg files in src/main/webapp
 
-6.  Build and run Jenkins with your plugin loaded.
+6.  Build and test your plugin:
 
-        $ mvn hpi:run
+    1. Execute 'mvn hpi:run'
         
-7. Browse to http://localhost:8080.  If the build was successful, you
-   will have a running instance of Jenkins with your plugin loaded.
+    2. Browse to http://localhost:8080.  If the build was successful, you
+       will have a running instance of Jenkins with your plugin loaded.
    
-   Create a New Job.  Name it and choose 'free-style software project'. 
-   In the Post-Build section there should be an option to Associate Persona
-   with your Persona loaded.
+    3. Create a New Job.  Name it and choose 'free-style software project'. 
+       In the Post-Build section there should be an option to Associate Persona
+       with your Persona loaded.
    
-8. To create an .hpi file run 'mvn package'.  The .hpi file will be in the target/ directory.
+7. To create an .hpi file run 'mvn package'.  The .hpi file will be in the target/ directory.
    
-9. Add your files, commit to github, and share your persona =) 
+8. Add your files, commit to github, and share your persona =) 
